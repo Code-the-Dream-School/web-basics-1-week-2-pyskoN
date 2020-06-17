@@ -1,0 +1,25 @@
+
+
+.nav_links{
+    text-align: right;
+    color: rgb(184, 180, 180);
+    margin-top: 5mm;
+
+}
+.mr-3{
+   padding-right: 16px;
+   padding-left: 16px; 
+}
+.mr-10{
+   padding-right: 5cm;
+   padding-left: 5cm;
+   font-style: italic;
+   
+}
+a{
+  color: #aaaaaa;
+  text-decoration: none;
+  background-color: rgb(48, 47, 47);
+  padding: 4mm;
+}
+
